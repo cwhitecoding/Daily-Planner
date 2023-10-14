@@ -1,5 +1,9 @@
 # Daily-Planner
 
+## Live Site Link
+
+https://cwhitecoding.github.io/Daily-Planner/
+
 ## Description
 
 This site was created using HTML, CSS, and JavaScript. The purpose of this site is to be able to keep track of a busy day's schedule. This provides an easy and focused view of each hour's tasks, will provide today's date at the top of the page, will visually show the past, current, and future hours, and posesses the ability to save each input item. During the creation and bug fixing of this project, I learned to use DOM traversal, used jQuery, click events, utilized local storage, and expanded my knowledge on using functions. 
